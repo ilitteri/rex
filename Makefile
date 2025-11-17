@@ -2,3 +2,7 @@
 
 cli:
 	cargo install --path cli --locked
+
+echo:
+    echo
+
